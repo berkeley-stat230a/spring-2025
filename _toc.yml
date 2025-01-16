@@ -4,5 +4,5 @@ chapters:
 - file: syllabus
 - file: calendar
 - file: data
-- file: unit1
-- file: unit2
+#- file: unit1
+#- file: unit2
