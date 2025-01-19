@@ -34,16 +34,5 @@ subtitle: "UC Berkeley, Spring 2025"
 
 :::
 
-# Important Links
-
-
-* [bCourses](https://bcourses.berkeley.edu/courses/1541409)
-
-* [Ed Discussion](https://edstem.org/us/courses/71198/discussion)
-
-* [Gradescope](https://www.gradescope.com/courses/939242)
-
-
-<:::{schedule} ./schedule.yml>
 
 :::

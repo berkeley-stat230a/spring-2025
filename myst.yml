@@ -35,5 +35,7 @@ site:
     #  url: https://datahub.berkeley.edu
     - title: Gradescope
       url: https://www.gradescope.com/courses/939242
+    - title: bCourses
+      url: https://bcourses.berkeley.edu/courses/1541409
   domains:
     - stat230a.berkeley.edu
