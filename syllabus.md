@@ -42,7 +42,4 @@ analysis.
 
 # Syllabus
 
-<iframe src="https://stat230a.berkeley.edu/spring-2025/syllabus.pdf" width="100%" height="600px">
-    Your browser does not support iframes. 
-    Please download the syllabus [here](https://stat230a.berkeley.edu/spring-2025/syllabus.pdf).
-</iframe>
+<p><a href="files/syllabus.pdf" target="_blank">Download full syllabus</a><br></p>
