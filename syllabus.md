@@ -39,7 +39,7 @@ analysis.
 
 - Master’s level probability at the level of STAT 201A.
 
-- Linear algebra, at the level of the appendix in the course notes (Math 110 or equivalent).
+- Linear algebra (Math 110 or equivalent).
 
 - R or Python coding fluency.
 
