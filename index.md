@@ -8,7 +8,7 @@ subtitle: "UC Berkeley, Spring 2025"
 :::{card}
 :header: **Sam Pimentel**
 
-<![Instructor Name](images/firefly-instructor.jpg)>
+
 
 +++
 
@@ -20,7 +20,6 @@ subtitle: "UC Berkeley, Spring 2025"
 :::{card}
 :header: **Andy Shen**
 
-<![GSI Name](images/firefly-gsi.jpg)>
 
 +++
 
