@@ -1,8 +1,8 @@
 ---
-title: "Syllabus"
+title: "Course Description and Syllabus"
 ---
 
-# Syllabus
+# Course Description and Syllabus
 
 Jump to:
 
@@ -40,6 +40,7 @@ analysis.
 
 - R or Python coding fluency.
 
+# Syllabus
 
 <iframe src="https://stat230a.berkeley.edu/spring-2025/syllabus.pdf" width="100%" height="600px">
     Your browser does not support iframes. 
