@@ -2,7 +2,7 @@ format: jb-book
 root: index
 chapters:
 - file: syllabus
-- file: calendar
-- file: data
+#- file: calendar
+#- file: data
 #- file: unit1
 #- file: unit2

@@ -30,10 +30,10 @@ site:
   nav: []
   actions:
     - title: Ed
-      url: https://edstem.org
+      url: https://edstem.org/us/courses/71198/discussion
     #- title: DataHub
     #  url: https://datahub.berkeley.edu
     - title: Gradescope
-      url: https://www.gradescope.com/courses/564792
+      url: https://www.gradescope.com/courses/939242
   domains:
     - stat230a.berkeley.edu
