@@ -1,8 +1,8 @@
 ---
-title: "Course Description and Syllabus"
+title: "Syllabus"
 ---
 
-# Course Description and Syllabus
+# Syllabus
 
 <p><a href="files/syllabus.pdf" target="_blank">Download full syllabus</a><br></p>
 
