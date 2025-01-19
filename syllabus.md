@@ -4,6 +4,9 @@ title: "Course Description and Syllabus"
 
 # Course Description and Syllabus
 
+<p><a href="files/syllabus.pdf" target="_blank">Download full syllabus</a><br></p>
+
+
 Jump to:
 
 - [About Stat 230a](#about-stat-230a)
@@ -40,6 +43,3 @@ analysis.
 
 - R or Python coding fluency.
 
-# Syllabus
-
-<p><a href="files/syllabus.pdf" target="_blank">Download full syllabus</a><br></p>
