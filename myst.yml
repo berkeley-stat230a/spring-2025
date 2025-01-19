@@ -4,7 +4,7 @@ project:
   title: "Stat 230a"
   description: "Linear Models"
   keywords: []
-  authors: ["Sam Pimentel"]
+  authors: ["Sam Pimentel", "Andy Shen"]
   license:
     # code: MIT
     content: CC-BY-4.0

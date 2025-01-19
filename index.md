@@ -6,7 +6,7 @@ subtitle: "UC Berkeley, Spring 2025"
 ::::{grid} 1 2 2 2
 
 :::{card}
-:header: **Sam Pimentel**
+:header: **Instructor: Sam Pimentel**
 
 
 
@@ -18,7 +18,7 @@ subtitle: "UC Berkeley, Spring 2025"
 :::
 
 :::{card}
-:header: **Andy Shen**
+:header: **GSI: Andy Shen**
 
 
 +++

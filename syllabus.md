@@ -39,3 +39,9 @@ analysis.
 - Linear algebra, at the level of the appendix in the course notes (Math 110 or equivalent).
 
 - R or Python coding fluency.
+
+
+<iframe src="https://stat230a.berkeley.edu/spring-2025/syllabus.pdf" width="100%" height="600px">
+    Your browser does not support iframes. 
+    Please download the syllabus [here](https://stat230a.berkeley.edu/spring-2025/syllabus.pdf).
+</iframe>
